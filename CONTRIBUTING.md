@@ -4,7 +4,7 @@ Thank you for being a part of Project Lighthouse! :heart:
 
 We’ve already attracted a small team of dedicated contributors, but the need is great and we would love for you to join us as we make the vision become a reality. Join us as we change the world together, here’s how to get started!
 
-1. Visit project-lighthouse.org/developers and fill out the form.
+1. Visit [project-lighthouse.org/developers](http://project-lighthouse.org/developers) and fill out the form.
 1. We'll reach out, then following a quick intro we will send the Contributors Agreement.
 1. Sign the Contributor Agreement and we'll invite you to Github.
 1. Find an issue or a story to work on and let us know in the comments.
