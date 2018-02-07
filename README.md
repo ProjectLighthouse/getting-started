@@ -21,7 +21,7 @@ Lighthouse is running at [demo.project-lighthouse.org](http://demo.project-light
 
 | Concern                   | Solution        |
 |---------------------------|-----------------|
-| Monorepo Build            | Docker          |
+| Infrastructure            | Docker          |
 | Server                    | Node            |
 | Server Framework          | Express         |
 | Database                  | MongoDB         |
@@ -30,7 +30,7 @@ Lighthouse is running at [demo.project-lighthouse.org](http://demo.project-light
 | Client State              | Redux           |
 | Front-end Views           | ReactJS         |
 | Styling                   | aphrodite       |
-| Unit Testing              | Mocha           |
+| Testing .                 | Mocha           |
 
 Lighthouse is programmed in ECMAscript ES6. Transpilation is provided by [babel](https://github.com/babel/babel).
 
