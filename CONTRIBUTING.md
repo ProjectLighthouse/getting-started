@@ -7,7 +7,7 @@ We’ve already attracted a small team of dedicated contributors, but the need i
 1. Visit [project-lighthouse.org](https://www.project-lighthouse.org/content/community) and fill out the form.
 1. We'll reach out, then following a quick intro we will send the Contributor License Agreement.
 1. Sign the Contributor Agreement and we'll invite you to Github.
-1. Find an issue or a story to work on and let us know in the comments. [Visit the Trello Roadmap](https://trello.com/b/f19IOIlw)
+1. Find an issue or a story to work on and let us know in the comments. [Visit the Trello Roadmap](http://bit.ly/2ICosSx)
 1. Pull down the code and take a look around.
 1. Work your magic and submit a pull request.
 1. Congratulations 🎉, together we can serve our communities better!
