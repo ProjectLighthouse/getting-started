@@ -13,9 +13,9 @@ Welcome to Lighthouse! We are dedicated to the mission of making our local commu
 
 ---
 
-Lighthouse is running at [demo.project-lighthouse.org](http://demo.project-lighthouse.org). Join us on Slack if you haven't already or visit [www.project-lighthouse.org](http://www.project-lighthouse.org) to learn more about the project.
+Lighthouse is running at [www.project-lighthouse.org/serve](https://www.project-lighthouse.org/serve). Join us on Slack if you haven't already or visit [www.project-lighthouse.org](http://www.project-lighthouse.org) to learn more about the project.
 
-[Join us on Slack](http://bit.ly/2vfoURo)
+[Join us on Slack](https://bit.ly/2vfoURo)
 
 ## Stack Information
 
